@@ -2,6 +2,7 @@
 var mockServer = require('node-mock-server');
 var path = require('path');
 
+
 mockServer({
 	'restPath': path.join(__dirname, '/rest'),
 	'uiPath': '/',
