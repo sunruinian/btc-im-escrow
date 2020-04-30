@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "data": {
+    "head": {
+      "status": "\u5df2\u5b8c\u6210",
+      "currency": "USDT",
+      "amount": "-10,000",
+      "avatar": "https://sandbox.bixin.com/res/user_profile_default_4.png",
+      "searchainio_url": "",
+      "address": "",
+      "is_big_deal": false,
+      "status_desc": null,
+      "status_color": "",
+      "external": false
+    },
+    "detail": [
+      {
+        "type": "normal",
+        "value": "0 USDT",
+        "key": "\u542b\u670d\u52a1\u8d39"
+      }
+    ],
+    "attr": [
+      {
+        "type": "normal",
+        "value": "otc_authentication_deposit-\u8f6c\u51fa",
+        "key": "\u7c7b\u578b"
+      },
+      {
+        "type": "time",
+        "value": "2019-06-27T02:21:12.307Z",
+        "key": "\u521b\u5efa\u65f6\u95f4"
+      },
+      {
+        "type": "normal",
+        "value": "84e8bf24604c4b248c10b167bd61a760",
+        "key": "\u4ea4\u6613 ID"
+      }
+    ]
+  }
+}
